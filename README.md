@@ -1,1 +1,0 @@
-SQL data exploration refers to the systematic process of querying and analyzing data stored in a relational database using SQL (Structured Query Language) like Understanding Data Requirements, Connecting to Data Sources and Querying Data.
